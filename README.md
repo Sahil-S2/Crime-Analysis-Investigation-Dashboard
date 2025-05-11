@@ -97,7 +97,7 @@ Interactive tooltips include Total Crimes, % Solved, City, and Crime Type.
 ![Dashboard-Preview](Crime_analysis_page-2.jpg)
 
 
-## 🛠 **Technologies Used**
+## **Technologies Used**
 
 * **Power BI**: Interactive dashboard creation
 * **DAX**: Measures, calculated columns, KPIs
