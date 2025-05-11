@@ -45,7 +45,7 @@ The dataset includes structured crime records across multiple dimensions such as
 | City / State            | Geographic location of the crime               |
 | Crime Type              | Type/category of the crime committed           |
 | Date Time of Occurrence | Timestamp of when the crime occurred           |
-| Date Case Closed        | Closure date (if available)                    |
+| Date Case Closed        | Closure date                   |
 | Weapon Used             | Object or weapon used in the crime             |
 | Status                  | Solved or Pending status based on closure date |
 | Description             | Brief narrative of the incident                |
