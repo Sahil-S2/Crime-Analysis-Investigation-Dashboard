@@ -21,7 +21,7 @@ This repository contains an end-to-end **data analysis and visualization solutio
 
 ---
 
-## 📌 **Project Overview**
+## **Project Overview**
 
 This Power BI project explores crime data to uncover patterns in:
 
@@ -35,7 +35,7 @@ The dashboard is built to enable **better decision-making**, **trend monitoring*
 
 ---
 
-## 🎯 **Dataset Information**
+## **Dataset Information**
 
 The dataset includes structured crime records across multiple dimensions such as:
 
@@ -54,7 +54,7 @@ The dataset includes structured crime records across multiple dimensions such as
 
 ---
 
-## 📊 **Key Highlights**
+## **Key Highlights**
 
 ### 🗓️ 1. Time-Based Crime Patterns
 
@@ -83,7 +83,7 @@ The dataset includes structured crime records across multiple dimensions such as
 
 ---
 
-## 📂 **Visualizations**
+## **Visualizations**
 
 * 📈 **Crimes by Month-Year (Trend Line/Area Chart)** — *"Tracking Crime Trends Over Time"*
 * 📊 **Crimes by Month (Bar/Line Chart)** — *"Monthly Crime Distribution Overview"*
@@ -93,8 +93,9 @@ The dataset includes structured crime records across multiple dimensions such as
 * 🧾 **Pending Case Explorer** — *"Matrix View of All Unresolved Crimes"*
 
 Interactive tooltips include Total Crimes, % Solved, City, and Crime Type.
-
 ---
+![Dashboard-Preview](Crime_analysis_page-2.jpg)
+
 
 ## 🛠 **Technologies Used**
 
@@ -105,7 +106,7 @@ Interactive tooltips include Total Crimes, % Solved, City, and Crime Type.
 
 ---
 
-## 📈 **Installation and Usage**
+## **Installation and Usage**
 
 ### 🧰 To View and Explore:
 
@@ -120,7 +121,7 @@ Interactive tooltips include Total Crimes, % Solved, City, and Crime Type.
 
 ---
 
-## 📁 **Project Structure**
+## **Project Structure**
 
 ```
 crime-analysis-dashboard/
@@ -139,20 +140,20 @@ crime-analysis-dashboard/
 
 ---
 
-## 🤝 **Contributions**
+## **Contributions**
 
 Contributions, suggestions, and feature requests are welcome!
 Feel free to fork the repo, make changes, and submit a pull request.
 
 ---
 
-## 📄 **License**
+## **License**
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📬 **Contact**
+## **Contact**
 
 📧 For collaboration or feedback, connect via
 🔗 [LinkedIn – Sahil Jena](https://www.linkedin.com/in/sahil-jena-067b1b301)
